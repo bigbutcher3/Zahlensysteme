@@ -1,0 +1,14 @@
+X:\LF 11\Zahlensysteme\bin\Debug\net8.0\Zahlensysteme.exe
+X:\LF 11\Zahlensysteme\bin\Debug\net8.0\Zahlensysteme.deps.json
+X:\LF 11\Zahlensysteme\bin\Debug\net8.0\Zahlensysteme.runtimeconfig.json
+X:\LF 11\Zahlensysteme\bin\Debug\net8.0\Zahlensysteme.dll
+X:\LF 11\Zahlensysteme\bin\Debug\net8.0\Zahlensysteme.pdb
+X:\LF 11\Zahlensysteme\obj\Debug\net8.0\Zahlensysteme.GeneratedMSBuildEditorConfig.editorconfig
+X:\LF 11\Zahlensysteme\obj\Debug\net8.0\Zahlensysteme.AssemblyInfoInputs.cache
+X:\LF 11\Zahlensysteme\obj\Debug\net8.0\Zahlensysteme.AssemblyInfo.cs
+X:\LF 11\Zahlensysteme\obj\Debug\net8.0\Zahlensysteme.csproj.CoreCompileInputs.cache
+X:\LF 11\Zahlensysteme\obj\Debug\net8.0\Zahlensysteme.dll
+X:\LF 11\Zahlensysteme\obj\Debug\net8.0\refint\Zahlensysteme.dll
+X:\LF 11\Zahlensysteme\obj\Debug\net8.0\Zahlensysteme.pdb
+X:\LF 11\Zahlensysteme\obj\Debug\net8.0\Zahlensysteme.genruntimeconfig.cache
+X:\LF 11\Zahlensysteme\obj\Debug\net8.0\ref\Zahlensysteme.dll
